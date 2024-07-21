@@ -4,6 +4,13 @@
 
 <h3 align="center">COMPUTER SCIENCE STUDENT AT POLYTECHNIC UNIVERSITY OF THE PHILIPPINES</h3>
 
+<div align="center"> 
+  <a href="mailto:dagsmagalona@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/adriel-magalona-0546b9318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+        </div>
  <hr/>
 <div align="center">
   <h2> Socials</h2>
