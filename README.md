@@ -9,16 +9,16 @@
   <br>
 
 <p align="center">
-  <a href="https://www.facebook.com/Traceaz" style="text-decoration:none;">
+  <a href="https://www.facebook.com/Traceaz" style="text-decoration:none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/adr1elllll" style="text-decoration:none;">
+  <a href="https://www.instagram.com/adr1elllll" style="text-decoration:none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/adr1el_m" style="text-decoration:none;">
+  <a href="https://twitter.com/adr1el_m" style="text-decoration:none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@isneyking0" style="text-decoration:none;">
+  <a href="https://www.tiktok.com/@isneyking0" style="text-decoration:none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
   <a href="https://github.com/Adriel01ph" style="text-decoration:none;">
@@ -26,6 +26,4 @@
   </a>
 </p>
 
-  
-  <br/><br/><br/>
 </div>
