@@ -8,7 +8,7 @@
   <h2> Socials</h2>
   <br>
 
-<p align="center">
+
   <a href="https://www.facebook.com/Traceaz" style="text-decoration:none; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -24,6 +24,5 @@
   <a href="https://github.com/Adriel01ph" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-</p>
 
 </div>
