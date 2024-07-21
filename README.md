@@ -4,6 +4,7 @@
 
 <h3 align="center">COMPUTER SCIENCE STUDENT AT POLYTECHNIC UNIVERSITY OF THE PHILIPPINES</h3>
 
+ <hr/>
 <div align="center">
   <h2> Socials</h2>
   <br>
