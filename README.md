@@ -5,11 +5,18 @@
 <h3 align="center">COMPUTER SCIENCE STUDENT AT POLYTECHNIC UNIVERSITY OF THE PHILIPPINES</h3>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> Socials</h2>
   <br>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Traceaz)
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adr1elllll)
+
+[![Twitter Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/adr1el_m)
+
+[![Tiktok Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.tiktok.com/@isneyking0)
+
+[![Github Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/Adriel01ph)
   
   <br/><br/><br/>
 </div>
