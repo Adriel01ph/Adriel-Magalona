@@ -1,8 +1,8 @@
-# 🏄‍♂️ Adriel Magalona
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+<a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.threads.net/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
+<a href="https://www.tiktok.com/@carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
